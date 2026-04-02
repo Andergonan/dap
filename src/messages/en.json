@@ -1,0 +1,78 @@
+{
+    "Global": {
+        "toAbout": "About",
+        "toProjects": "Projects",
+        "toContact": "Contact",
+
+        "contact-btn": "Contact me",
+        "showMore-btn": "Show more",
+        "showLess-btn": "Zobrait méně"
+    },
+
+    "HomePage": {
+        "currentLocation-title": "Current Location",
+        "currentLocation": "Czech Republic, Česká Lípa",
+        
+        "introduction-section-title": "Introduction",
+        "introduction-text": "I design and build modern web applications with a focus on performance, clean architecture, and clear, intuitive UX/UI. I emphasize code quality and solutions designed for long-term growth.",
+        "introduction-sub-text": "I have experience from both personal projects and commercial application development, where I contributed to solution design, technical decisions, and code quality.",
+
+        "techInfo-section-title": "Core Competencies",
+        "techInfo-title": "Technical Arsenal",
+
+        "otherInfo-experience-desc": "Years of Experience",
+        "otherInfo-projects-desc": "End-to-end projects"
+
+    },
+    "ProjectsPage": {
+        "title-eyebrow": "Take a look",
+        "title-line1": "Selected",
+        "title-line2": "works",
+        "in-development": "In development",
+
+        "project-jmk-desc1": "Development of an external portal capable of displaying data from other modules within the DERS ecosystem.",
+        "project-jmk-desc2": "A custom-built web application designed based on specific client requirements, with the goal of creating a transparent and intuitive tool for presenting subsidy data in a user-friendly interface. The solution focused not only on application architecture but also on secure integration with internal systems.",
+        "project-jmk-desc3": "The project included designing and exposing a secure API from an internal module and integrating it with the external application. A key challenge was ensuring secure data processing and presentation with a strong emphasis on data integrity and protection, as well as aligning internal DERS systems with the public-facing layer. Performance optimization was also crucial, especially when working with large datasets.",
+        "project-jmk-desc4": "The result is a modern, secure, and scalable portal that efficiently retrieves data from internal modules and presents it in a clear and logical structure. The application enables easy management, regular updates, and future extensibility while fully meeting client requirements for functionality, security, and user experience.",
+
+        "project-eoc-desc1": "It all started with a vision, moved through design concepts, and ended with a successful implementation.",
+        "project-eoc-desc2": "The goal of the redesign was to breathe new life into the e-commerce part of an enterprise module and transform it into a modern, competitive system with a strong focus on intuitive and enjoyable user experience across all devices.",
+        "project-eoc-desc3": "The main challenge was to maintain full compatibility with existing data structures while introducing new UX elements without disrupting the existing logic and system functionality.",
+        "project-eoc-desc4": "The result is a cleaner, more structured, and user-friendly e-shop that appeals to a wide range of users—both those who prefer familiar workflows and those who expect a modern and dynamic experience.",
+
+        "project-d4l-desc1": "A modern, responsive website for the Drive4Life driving school, featuring a fresh and distinctive design.",
+        "project-d4l-desc2": "Built with modern technologies and integrated with the external system Moje Autoškola, the website offers users a simple and intuitive way to enroll in courses or access detailed information about individual training programs.",
+        "project-d4l-desc3": "Strong emphasis was placed on a clear content structure, easy navigation, and a seamless registration process. The user interface is designed for maximum clarity and minimal steps required to complete enrollment.",
+        "project-d4l-desc4": "The entire solution is designed with scalability and future extensibility in mind, allowing for easy addition of new features or adjustments based on client needs.",
+
+        "project-hrs-desc1": "From logo design to the development of a one-page website with a custom administration system, the entire solution was created as a cohesive product with a focus on functionality, easy management, and consistent visual identity.",
+        "project-hrs-desc2": "The project included the design and development of a presentation website with a custom administration system built on PHP and SQL. The solution involved creating a custom template structure, simple routing, and an admin layer for managing content, services, and user reviews.",
+        "project-hrs-desc3": "The application was designed with an emphasis on simplicity, direct data management, and independence from external CMS platforms. It uses a custom database model, MySQL integration, and a clear separation between presentation and application logic, making it easy to modify and extend.",
+        "project-hrs-desc4": "The result is a functional one-page website with its own backend infrastructure, enabling efficient content management, dynamic data handling, and a tailored administrative environment."
+    },
+    "ContactPage": {
+        "title-eyebrow": "Contact me",
+        "title-line1": "Let's Build",
+        "title-line2": "together.",
+
+        "form-title": "Direct message",
+        "form-subtitle": "Have a question or interested in working together? Write to me and I’ll get back to you as soon as possible.",
+        "form-name": "Name & Surname",
+        "form-email": "E-mail",
+        "form-msg": "Message",
+        "form-submit": "Submit",
+        
+        "form-submitting": "Submitting form",
+        "form-success": "Form submitted successfully",
+        "form-error": "Failed to submit form",
+        "form-error-failed-to-send-msg": "Failed to send message.",
+        "form-error-unexpected-server-error": "Unexpected server error",
+        "form-error-missing-apiKey": "Server is missing RESEND_API_KEY.",
+        "form-error-missing-contactEmail": "Server is missing CONTACT_TO_EMAIL.",
+        "form-val-name-is-too-short": "Name is too short.",
+        "form-val-name-is-too-long": "Name is too long.",
+        "form-val-invalid-email-address": "Invalid email address.",
+        "form-val-message-is-too-short": "Message is too short.",
+        "form-val-message-is-too-long": "Message is too long."
+    }
+}
