@@ -1,0 +1,77 @@
+{
+    "Global": {
+        "toAbout": "O mně",
+        "toProjects": "Projekty",
+        "toContact": "Kontakt",
+
+        "contact-btn": "Kontaktovat",
+        "showMore-btn": "Zobrazit více",
+        "showLess-btn": "Zobrait méně"
+    },
+
+    "HomePage": {
+        "currentLocation-title": "Bydliště",
+        "currentLocation": "Česká Lípa",
+        
+        "introduction-section-title": "Úvod",
+        "introduction-text": "Navrhuji a vyvíjím moderní webové aplikace se zaměřením na výkon, čistou architekturu a přehledné UX/UI. Kladu důraz na kvalitu kódu a řešení navržená s ohledem na dlouhodobý rozvoj.",
+        "introduction-sub-text": "Mám zkušenosti z vlastních projektů i z vývoje komerčních aplikací, kde jsem se podílel na návrhu řešení, technických rozhodnutích a kvalitě kódu.",
+        
+        "techInfo-section-title": "Klíčové kompetence",
+        "techInfo-title": "Technický arsenál",
+
+        "otherInfo-experience-desc": "Let zkušeností",
+        "otherInfo-projects-desc": "End-to-end projektů"
+    },
+    "ProjectsPage": {
+        "title-eyebrow": "Prohlédněte si",
+        "title-line1": "Vybrané",
+        "title-line2": "práce",
+        "in-development": "Ve vývoji",
+
+        "project-jmk-desc1": "Tvorba externího portálu, který dokáže zobrazit data z ostatních modulů ekosystému DERS produktů.",
+        "project-jmk-desc2": "Na míru vyvinutá webová aplikace, byla navržena na základě specifických požadavků klienta s cílem vytvořit transparentní a přehledný nástroj pro zobrazení dotačních dat v uživatelsky přívětivém rozhraní. Při návrhu řešení byl kladen důraz nejen na samotnou strukturu aplikace, ale také na bezpečné napojení na interní systémy.",
+        "project-jmk-desc3": "Součástí projektu bylo navržení a vystavení zabezpečeného API z interního modulu a jeho propojení s externí aplikací. Klíčovou výzvou bylo zajistit bezpečné zpracování a prezentaci dat s důrazem na jejich integritu a ochranu, stejně jako sladění interních systémů DERS s veřejnou prezentační vrstvou. Neméně důležitá byla optimalizace výkonu, zejména při práci s rozsáhlými datovými sadami.",
+        "project-jmk-desc4": "Výsledkem je moderní, bezpečný a škálovatelný portál, který efektivně čerpá data z interního modulu a prezentuje je v logické a přehledné struktuře. Aplikace umožňuje snadnou správu, pravidelnou aktualizaci i budoucí rozšiřování a plně odpovídá požadavkům klienta na funkčnost, bezpečnost i uživatelský komfort.",
+        
+        "project-eoc-desc1": "Vše začalo vizí, pokračovalo přes grafické návrhy a skončilo úspěšnou implementací.",
+        "project-eoc-desc2": "Cílem redesignu bylo vdechnout e-shopové části e-comerce modulu DERS nový život a transformovat ji v moderní, konkurenceschopný systém s důrazem na intuitivní a příjemné uživatelské prostředí napříč všemi zařízeními.",
+        "project-eoc-desc3": "Hlavní výzvou bylo zachovat plnou kompatibilitu se stávajícími datovými strukturami a současně implementovat nové UX prvky bez narušení existující logiky a funkčnosti systému.",
+        "project-eoc-desc4": "Výsledkem je čistší, přehlednější a uživatelsky přívětivý e-shop, který dokáže oslovit široké spektrum uživatelů – jak ty, kteří preferují osvědčené postupy, tak i ty, kteří očekávají moderní a dynamické prostředí.",
+
+        "project-d4l-desc1": "Moderní responzivní webové stránky autoškoly Drive4Life se svěžím a jedinečným designem.",
+        "project-d4l-desc2": "Webové stránky tvořené moderními technologiemi a s integrací externího systému Moje Autoškola nabízejí uživatelům jednoduchý a intuitivní způsob, jak se přihlásit do kurzů nebo získat detailní informace o jednotlivých typech výcviku.",
+        "project-d4l-desc3": "Důraz byl kladen na přehlednou strukturu obsahu, rychlou orientaci a bezproblémový průchod celým procesem registrace. Uživatelské rozhraní je navrženo s ohledem na maximální srozumitelnost a minimalizaci kroků potřebných k dokončení přihlášky.",
+        "project-d4l-desc4": "Celé řešení je navrženo s důrazem na škálovatelnost a budoucí rozšiřitelnost, což umožňuje snadné doplnění nových funkcí nebo úpravy dle potřeb klienta.",
+
+        "project-hrs-desc1": "Od návrhu loga až po vývoj one-page webu s vlastním administračním systémem, celé řešení bylo navrženo jako ucelený produkt s důrazem na funkčnost, jednoduchou správu a konzistentní vizuální identitu.",
+        "project-hrs-desc2": "Projekt zahrnoval návrh a vývoj prezentačního webu s vlastním administračním systémem postaveným na PHP a SQL. Součástí řešení byla tvorba vlastní šablonovací struktury, jednoduchého routingu a administrační vrstvy pro správu obsahu, služeb a uživatelských recenzí.",
+        "project-hrs-desc3": "Důraz byl kladen na lehkost řešení, přímou správu dat a nezávislost na externích CMS platformách. Aplikace využívá vlastní databázový model, napojení na MySQL a přehledné rozdělení mezi prezentační a aplikační logiku. Web lze snadno upravovat a dále rozšiřovat podle potřeb projektu.",
+        "project-hrs-desc4": "Výsledkem je funkční one-page web s vlastním backendovým zázemím, který umožňuje správu klíčového obsahu, práci s dynamickými daty a základní administraci v prostředí navrženém na míru."
+    },
+    "ContactPage": {
+        "title-eyebrow": "Kontaktujte mě",
+        "title-line1": "Pojďme vyvíjet",
+        "title-line2": "společně.",
+
+        "form-title": "Přímá zpráva",
+        "form-subtitle": "Máte dotaz nebo zájem o spolupráci? Napište, ozvu se Vám co nejdříve.",
+        "form-name": "Jméno & Příjmení",
+        "form-email": "E-mail",
+        "form-msg": "Zpráva",
+        "form-submit": "Odeslat",
+
+        "form-submitting": "Odesílání formuláře...",
+        "form-success": "Formulář úspěšně odeslán.",
+        "form-error": "Formulář se nepodařilo odeslat.",
+        "form-error-failed-to-send-msg": "Při odesílání zprávy nastala chyba.",
+        "form-error-unexpected-server-error": "Nečekáná chyba serveru.",
+        "form-error-missing-apiKey": "Chybí RESEND_API_KEY.",
+        "form-error-missing-contactEmail": "Chybí CONTACT_TO_EMAIL.",
+        "form-val-name-is-too-short": "Jméno je příliš krátké.",
+        "form-val-name-is-too-long": "Jméno je příliš dlouhé.",
+        "form-val-invalid-email-address": "Neplatná e-mailová adresa.",
+        "form-val-message-is-too-short": "Zpráva je příliš krátká.",
+        "form-val-message-is-too-long": "Zpráva je příliš dlouhá."
+    }
+}
