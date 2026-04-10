@@ -2,7 +2,7 @@
 Personal portfolio built with Next.js, TypeScript and Tailwind CSS.
 
 ## Tech stack
-- Next.js 16.2.1
+- Next.js 16.2.3
 - React 19
 - TypeScript
 - Tailwind CSS 4

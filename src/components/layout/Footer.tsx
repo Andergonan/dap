@@ -14,6 +14,7 @@ export default function Footer() {
 						className='text-[10px] uppercase tracking-[0.2em] text-gray-600 hover:text-[#00FFAB] duration-300 transition-opacity opacity-80 hover:opacity-100'
 						href={item.link}
 						target='_blank'
+						rel='noreferrer noopener'
 					>
 						{item.text}
 					</a>
