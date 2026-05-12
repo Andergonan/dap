@@ -1,6 +1,4 @@
 import SectionTitle from '@/components/shared/SectionTitle';
-import { Button } from '@/components/ui/button';
-import { Link } from '@/i18n/navigations';
 import { DoubleArrowRightIcon } from '@radix-ui/react-icons';
 import {
 	Database,
@@ -88,7 +86,7 @@ export default function HomePage() {
 			<div className="lg:col-span-5 lg:sticky lg:top-32">
 				<div className="relative group">
 					<div className="relative aspect-4/5 overflow-hidden rounded-lg">
-						<Image src="/profile_photo.png" alt="Profile photo" fill className="object-cover" />
+						<Image src="/profile_photo.webp" alt="Profile photo" fill className="object-cover" />
 					</div>
 				</div>
 				<div className="mt-8">

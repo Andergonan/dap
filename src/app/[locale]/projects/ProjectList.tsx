@@ -55,6 +55,23 @@ export default function ProjectList() {
 	const projects: Project[] = useMemo(
 		() => [
 			{
+				title: 'Drive4Life',
+				desc: [
+					tProjects('project-d4l-desc1'),
+					tProjects('project-d4l-desc2'),
+					tProjects('project-d4l-desc3'),
+					tProjects('project-d4l-desc4')
+				],
+				badges: [
+					{ text: 'NextJS' },
+					{ text: 'TypeScript' },
+					{ text: 'React' },
+					{ text: 'Tailwind' },
+					{ text: 'CSS' }
+				],
+				img: '/drive4life_web_preview.webp'
+			},
+			{
 				title: 'Grant Portal JMK',
 				desc: [
 					tProjects('project-jmk-desc1'),
@@ -82,23 +99,6 @@ export default function ProjectList() {
 				],
 				badges: [{ text: 'JavaScript' }, { text: 'React' }, { text: 'CSS' }],
 				img: '/ders_logo.webp'
-			},
-			{
-				title: 'Drive4Life',
-				desc: [
-					tProjects('project-d4l-desc1'),
-					tProjects('project-d4l-desc2'),
-					tProjects('project-d4l-desc3'),
-					tProjects('project-d4l-desc4')
-				],
-				badges: [
-					{ text: tProjects('in-development'), variant: 'destructive' },
-					{ text: 'NextJS' },
-					{ text: 'TypeScript' },
-					{ text: 'React' },
-					{ text: 'CSS' }
-				],
-				img: '/d4l_logo.webp'
 			},
 			{
 				title: 'HR-Studio',
